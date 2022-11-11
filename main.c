@@ -5,7 +5,9 @@
 //  This program also illustrates how to measure elapsed time.
 //
 //  Author: Dale Reed 11/3/22
-//  test commit
+//  
+//  test commit 2
+//
 /*  Sample output:
         Welcome to the Sort timing example program.
 
